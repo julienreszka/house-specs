@@ -5,9 +5,13 @@ Specs for a home
 
 ## Electric circuit
 
+## Plumbing
+
 ## Heating
 
-## Openings
+## Opening
 
-## Lightings
+## Lighting
+
+## Cleaning
 
