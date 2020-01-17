@@ -1,5 +1,5 @@
 # house-specs
-Specs for a home
+Specs for a smart home
 
 ## Power generation
 
@@ -15,3 +15,6 @@ Specs for a home
 
 ## Cleaning
 
+## Security
+
+## Safety
