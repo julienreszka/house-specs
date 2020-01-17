@@ -13,8 +13,10 @@ Specs for a smart home
 
 ## Heating
 
-## Opening
-
 ## Lighting
 
+## Opening
+
 ## Cleaning
+
+## Networking
