@@ -1,6 +1,10 @@
 # house-specs
 Specs for a smart home
 
+## Security
+
+## Safety
+
 ## Power generation
 
 ## Electric circuit
@@ -14,7 +18,3 @@ Specs for a smart home
 ## Lighting
 
 ## Cleaning
-
-## Security
-
-## Safety
