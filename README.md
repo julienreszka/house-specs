@@ -1,11 +1,11 @@
 # smart-home-specs
 Specs for a smart home
 
+## Structural integrity
+
 ## Security
 
 ## Safety
-
-## Structural integrity
 
 ## Power generation
 
@@ -23,6 +23,8 @@ Specs for a smart home
 
 ## Cleaning
 
+## Noise cancelling 
+
 ## Networking
 
-## Noise cancelling 
+## Printing
