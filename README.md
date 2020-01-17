@@ -5,6 +5,8 @@ Specs for a smart home
 
 ## Safety
 
+## Structural integrity
+
 ## Power generation
 
 ## Electric circuit
@@ -13,6 +15,8 @@ Specs for a smart home
 
 ## Heating
 
+## Ventilation
+
 ## Lighting
 
 ## Opening
@@ -20,3 +24,5 @@ Specs for a smart home
 ## Cleaning
 
 ## Networking
+
+## Noise cancelling 
