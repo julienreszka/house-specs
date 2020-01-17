@@ -1,4 +1,4 @@
-# house-specs
+# smart-home-specs
 Specs for a smart home
 
 ## Security
